@@ -63,4 +63,5 @@ $settings->getFiles()->setUploadParallelChunks(100);
 $MadelineProto->updateSettings($settings);
 ```
 
-<a href="https://docs.madelineproto.xyz/docs/SELF.html">Next section</a>
+<a href="https://docs.madelineproto.xyz/docs/SELF.html
+$MadelineProto->updateSettings($settings);">Next section</a>
